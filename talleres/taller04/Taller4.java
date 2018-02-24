@@ -7,16 +7,7 @@ import java.io.*;
  */
 public class Taller4 {
 
-    public static int costoMinimo(Digraph g, int inicio, int fin) {
-        return 0;
-    }
 
-    // recomendacion
-    private static void dfs(Digraph g, int v, int[] costo) {
-        // complete...
-    }
-
-   
 
     public static ArrayList<Integer> dfs(Digraph g, int start){
         boolean visitados[] = new boolean[g.size()];
