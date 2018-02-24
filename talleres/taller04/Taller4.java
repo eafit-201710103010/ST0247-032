@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.*;
 /**
  * Clase en la cual se implementan los metodos del Taller de Clase #4
- * 
+ * Realizado por: Luisa Maria Vasquez y Juan Jose Parra
  * @author Mauricio Toro, Mateo Agudelo
  */
 public class Taller4 {
